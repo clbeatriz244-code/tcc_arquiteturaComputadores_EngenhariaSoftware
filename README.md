@@ -1,2 +1,2 @@
 # tcc_arquiteturaComputadores_EngenhariaSoftware
-Implementação de algoritmos em linguagem C para análise comparativa entre padrões de acesso sequencial e disperso à memória, avaliando impactos no desempenho computacional e no comportamento da memória cache.
+Este repositório contém os códigos utilizados nos experimentos práticos do trabalho acadêmico relacionado à análise de desempenho computacional em diferentes padrões de acesso à memória. Os algoritmos foram implementados em linguagem C com o objetivo de comparar os impactos do acesso sequencial e disperso no aproveitamento da memória cache e no tempo de execução das aplicações.
